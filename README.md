@@ -16,4 +16,4 @@ Podés descargar StartUp Actions Manager de diferentes maneras:
 git clone https://github.com/ryaben/startup-actions-manager.git
 ```
 
-Instalando los binarios del programa con un ejecutable para Windows a través de <a href='https://www.softpedia.com/get/System/Launchers-Shutdown-Tools/StartUp-Actions-Manager.shtml'>Softpedia</a>, <a href='https://www.download.io/startup-actions-manager-download-windows.html'>Download.io</a>, <a href='https://www.baixaki.com/download/startup-actions-manager.htm'>Baixaki</a> y más.
+* Instalando los binarios del programa con un ejecutable para Windows a través de <a href='https://www.softpedia.com/get/System/Launchers-Shutdown-Tools/StartUp-Actions-Manager.shtml'>Softpedia</a>, <a href='https://www.download.io/startup-actions-manager-download-windows.html'>Download.io</a>, <a href='https://www.baixaki.com/download/startup-actions-manager.htm'>Baixaki</a> y más.
